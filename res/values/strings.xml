@@ -18,6 +18,8 @@
         <item>Mumbai</item>
         <item>Nasik</item>
         <item>Pune</item>
+        <item>Nagpur</item>
+        <item>Auarangabad</item>
     </string-array>
 
     <string name="title_activity_patient_details">Patient Details</string>
