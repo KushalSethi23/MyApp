@@ -13,7 +13,7 @@ import android.util.Log;
 
 public class DBHelper extends SQLiteOpenHelper {
 
-	//Database Name
+	//Database Name changed
 	public static final String DATABASE_NAME="PatientDatabase";
 	//Table Name
 	public static final String TABLE_NAME="Patients";
