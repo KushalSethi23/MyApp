@@ -20,7 +20,8 @@
         <item>Pune</item>
         <item>Nagpur</item>
         <item>Auarangabad</item>
-    </string-array>
+        <item>Thane</item>    
+</string-array>
 
     <string name="title_activity_patient_details">Patient Details</string>
     <string name="title_activity_show_patient_details">All Patients</string>
